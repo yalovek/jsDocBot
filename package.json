@@ -1,0 +1,27 @@
+{
+  "name": "js-doc-bot",
+  "version": "1.0.0",
+  "description": "Bot for JSDoc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalovek/jsDocBot.git"
+  },
+  "keywords": [
+    "bot",
+    "jsdoc"
+  ],
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yalovek/jsDocBot/issues"
+  },
+  "homepage": "https://github.com/yalovek/jsDocBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.21.1"
+  }
+}
